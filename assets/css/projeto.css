@@ -63,8 +63,8 @@ h2{
 }
 
 .container-img{
-    width: 780px;
-    height: 600px;
+    width: 580px;
+    height: 580px;
     position: relative;
 }
 
@@ -84,7 +84,7 @@ h2{
 
     .container-img{
         width: 400px;
-        height: 600px;
+        height: 670px;
     }
 
     h2{
